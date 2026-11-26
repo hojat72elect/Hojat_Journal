@@ -6,4 +6,5 @@ other than that, I try to keep it as detailed and accurate as I can.
 
 <ol>
 <li><a href="./1-%2020%20khordad%201396.md">شنبه ۲۰ خرداد سال ۱۳۹۶ ساعت ۱:۰۳ بامداد</a></li>
+<li><a href="./2-%2021%20khordad%201396.md">یکشنبه ۲۱ خرداد سال ۱۳۹۶ ساعت ۰۰:۳۲ بامداد</a></li>
 </ol>
